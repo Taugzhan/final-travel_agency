@@ -1,0 +1,57 @@
+@media (max-width:1220px){
+    .services__cards{
+        column-gap: 10px;
+
+    }
+    .services__card-img img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .paradise__title{
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .map__cards-desc{
+       margin-top: 10px;
+       letter-spacing: 0;
+       font-size: 14px;
+       font-weight: 400px;
+        
+    }
+
+    
+
+}
+@media(max-width:1100px ){
+    .map__cards-desc{
+        margin-top: 8px;
+        font-size: 12px;
+        padding: 0 30px;
+    }
+    .map__cards-title{
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
+@media (max-width:1050px) {
+    .desc__item-title{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .who_text{
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .question__subtitle{
+        font-size: 16px;
+        font-weight: 400;
+        margin: 10px auto;
+    }
+    .question__box{
+        height: 450px;
+    }
+    
+}
+
+ 
